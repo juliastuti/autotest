@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TCMerchant_02 - Login Success</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac73b6cf-69a2-4c8e-816b-123c2e2d3aa1</testCaseGuid>
+</TestCaseEntity>

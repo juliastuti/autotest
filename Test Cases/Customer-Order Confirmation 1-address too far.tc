@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Customer-Order Confirmation 1-address too far</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e89dd9f9-8781-42c3-a831-d04cda3b610d</testCaseGuid>
+</TestCaseEntity>
